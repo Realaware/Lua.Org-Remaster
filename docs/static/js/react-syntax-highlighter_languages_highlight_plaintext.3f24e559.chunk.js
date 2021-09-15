@@ -1,0 +1,2 @@
+(this.webpackJsonpluaorgremaster=this.webpackJsonpluaorgremaster||[]).push([[126],{222:function(t,e){t.exports=function(t){return{name:"Plain text",aliases:["text","txt"],disableAutodetect:!0}}}}]);
+//# sourceMappingURL=react-syntax-highlighter_languages_highlight_plaintext.3f24e559.chunk.js.map

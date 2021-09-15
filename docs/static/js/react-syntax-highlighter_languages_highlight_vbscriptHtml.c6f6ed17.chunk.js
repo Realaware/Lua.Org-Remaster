@@ -1,0 +1,2 @@
+(this.webpackJsonpluaorgremaster=this.webpackJsonpluaorgremaster||[]).push([[175],{271:function(n,e){n.exports=function(n){return{name:"VBScript in HTML",subLanguage:"xml",contains:[{begin:"<%",end:"%>",subLanguage:"vbscript"}]}}}}]);
+//# sourceMappingURL=react-syntax-highlighter_languages_highlight_vbscriptHtml.c6f6ed17.chunk.js.map

@@ -1,0 +1,2 @@
+(this.webpackJsonpluaorgremaster=this.webpackJsonpluaorgremaster||[]).push([[54],{146:function(e,n){e.exports=function(e){return{name:"ERB",subLanguage:"xml",contains:[e.COMMENT("<%#","%>"),{begin:"<%[%=-]?",end:"[%-]?%>",subLanguage:"ruby",excludeBegin:!0,excludeEnd:!0}]}}}}]);
+//# sourceMappingURL=react-syntax-highlighter_languages_highlight_erb.701fe6ed.chunk.js.map
